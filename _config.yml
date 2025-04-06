@@ -21,13 +21,12 @@
 title: "Breaking Neural Network Scaling Laws with Modularity"
 email: akhilan@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Akhilan Boopathy, Sunshine Jiang, William Yue, Jaedong Hwang, Abhiram Iyer, Ila Fiete
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://AkhilanB.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AkhilanB
-paper_url: https://arxiv.org/pdf/2305.01034.pdf
+paper_url: https://arxiv.org/pdf/2409.05780
+twitter_username: _akhilan
 
 # Build settings
 theme: jekyll-theme-cayman
